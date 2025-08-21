@@ -1,1 +1,1 @@
-landing page for the odin project foundations course
+([Live Demo:](https://berkay-eren.github.io/odin-landing-page/))
