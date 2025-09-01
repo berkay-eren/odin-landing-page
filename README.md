@@ -1,1 +1,1 @@
-[Live Demo](https://berkay-eren.github.io/odin-landing-page/)
+[Live Demo](https://berkay-eren.github.io/landing-page/)
